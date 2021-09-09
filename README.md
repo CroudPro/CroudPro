@@ -1,4 +1,4 @@
-Junior Frontend Developer
+Frontend Developer
 - 📧 alex9693.mr@gmail.com
 
 <!---
